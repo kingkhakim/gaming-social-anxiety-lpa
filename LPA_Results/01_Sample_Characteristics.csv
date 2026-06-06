@@ -1,0 +1,301 @@
+Variable,Category,n,Percent,Mean,SD,Min,Max
+Gender,Female,689,5.41,NA,NA,NA,NA
+Gender,Male,11999,94.221,NA,NA,NA,NA
+Gender,Other,47,0.369,NA,NA,NA,NA
+Age_Category,Adult,317,2.489,NA,NA,NA,NA
+Age_Category,Emerging Adult,11103,87.185,NA,NA,NA,NA
+Age_Category,Young Adult,1315,10.326,NA,NA,NA,NA
+Hours_Category,Casual Gamer,882,6.926,NA,NA,NA,NA
+Hours_Category,Heavy Gamer,6995,54.927,NA,NA,NA,NA
+Hours_Category,Moderate Gamer,4858,38.147,NA,NA,NA,NA
+Playstyle,1 IRL Friends + 2 online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,1v1 matchmaking,1,0.008,NA,NA,NA,NA
+Playstyle,3 last options.,1,0.008,NA,NA,NA,NA
+Playstyle,50/50 between single and multi with friends,1,0.008,NA,NA,NA,NA
+Playstyle,50/50 strangers/acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,75/25 online strangers/online RL friends,1,0.008,NA,NA,NA,NA
+Playstyle,A bit of everything mostly multiplayer games tho,1,0.008,NA,NA,NA,NA
+Playstyle,A combination of all Multiplayer options,1,0.008,NA,NA,NA,NA
+Playstyle,A combination of all of the aboive,1,0.008,NA,NA,NA,NA
+Playstyle,"A combination of friends, online acquaintances and strangers, depending on who is online and what I feel like",1,0.008,NA,NA,NA,NA
+Playstyle,A mixture of all of them,1,0.008,NA,NA,NA,NA
+Playstyle,all,1,0.008,NA,NA,NA,NA
+Playstyle,All Multiplayer - Online categories fit.,1,0.008,NA,NA,NA,NA
+Playstyle,All multiplayer options listed above.,1,0.008,NA,NA,NA,NA
+Playstyle,All mutiplayer - online anwsers; depends on the situation,1,0.008,NA,NA,NA,NA
+Playstyle,all of above,1,0.008,NA,NA,NA,NA
+Playstyle,all of em ?,1,0.008,NA,NA,NA,NA
+Playstyle,all of the above,8,0.063,NA,NA,NA,NA
+Playstyle,All of the above,5,0.039,NA,NA,NA,NA
+Playstyle,All of the above save offline,1,0.008,NA,NA,NA,NA
+Playstyle,all of the online multiplayer choices,1,0.008,NA,NA,NA,NA
+Playstyle,all of these,1,0.008,NA,NA,NA,NA
+Playstyle,All options,1,0.008,NA,NA,NA,NA
+Playstyle,All the above,1,0.008,NA,NA,NA,NA
+Playstyle,All the multiplayer options.,1,0.008,NA,NA,NA,NA
+Playstyle,All the online ones,1,0.008,NA,NA,NA,NA
+Playstyle,Alone and with online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,alone but on skype,1,0.008,NA,NA,NA,NA
+Playstyle,"Alone, with friend and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,an equal mix,1,0.008,NA,NA,NA,NA
+Playstyle,And with real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,aram,1,0.008,NA,NA,NA,NA
+Playstyle,As much Online as Offline,1,0.008,NA,NA,NA,NA
+Playstyle,"Because of solo q i play most singeplayer but when I am bored of it, I either play with rl friends or online acquaintances so it depends",1,0.008,NA,NA,NA,NA
+Playstyle,Both,1,0.008,NA,NA,NA,NA
+Playstyle,Both multi- and singleplayer with both friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Both Multiplayer online with real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Both multiplayer with real friends and teammates,1,0.008,NA,NA,NA,NA
+Playstyle,Both Offline and Online,1,0.008,NA,NA,NA,NA
+Playstyle,"Both online with friends, and strangers.",1,0.008,NA,NA,NA,NA
+Playstyle,both real life and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Both Single and Online with friends,1,0.008,NA,NA,NA,NA
+Playstyle,Both strangers and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,both with friends and with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Both with real life friends and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,By myself/with 1 friend whilst communicating our soloq expreicnes with each other over skype,1,0.008,NA,NA,NA,NA
+Playstyle,Co-op with my cousin,1,0.008,NA,NA,NA,NA
+Playstyle,"Combination of Online with friends, and online with strangers",1,0.008,NA,NA,NA,NA
+Playstyle,Depends,1,0.008,NA,NA,NA,NA
+Playstyle,DuoQ/Ranked Team / Strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Either playing with strangers or friends is fine,1,0.008,NA,NA,NA,NA
+Playstyle,Either single player or multiplayer with RL friends,1,0.008,NA,NA,NA,NA
+Playstyle,Equal mix of real life friends and online,1,0.008,NA,NA,NA,NA
+Playstyle,Everything,1,0.008,NA,NA,NA,NA
+Playstyle,Everything from above in the same amount,1,0.008,NA,NA,NA,NA
+Playstyle,"Fifa with friends in room (ps4), LoL online with strangers tryhard ranked, CSGO competetive with friends.",1,0.008,NA,NA,NA,NA
+Playstyle,"For League - Multiplayer, Online with strangers. For WoW, Multiplayer, Online with real life friends",1,0.008,NA,NA,NA,NA
+Playstyle,Friends and Others,1,0.008,NA,NA,NA,NA
+Playstyle,friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"friends online, also solo player",1,0.008,NA,NA,NA,NA
+Playstyle,Half of games with real life friends and half with online friends,1,0.008,NA,NA,NA,NA
+Playstyle,half single player half multiplayer with both person in same room and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,I'm versatile,1,0.008,NA,NA,NA,NA
+Playstyle,I do te 5 choices above,1,0.008,NA,NA,NA,NA
+Playstyle,I duo with my boyfriend pretty much all the time.,1,0.008,NA,NA,NA,NA
+Playstyle,"i play a lot of ranked with strangers, but also play a lot with my IRL friends in normal games... so its kinda 50/50",1,0.008,NA,NA,NA,NA
+Playstyle,"I play both single and multiplayer about evenly. Multiplayer offline, online with strangers, with teammates, real friends, and by myself in single player",1,0.008,NA,NA,NA,NA
+Playstyle,I play ranked with strangers in solo que and I play with my friends in normals,1,0.008,NA,NA,NA,NA
+Playstyle,I play with both real life friends and acquaintances.,1,0.008,NA,NA,NA,NA
+Playstyle,I play with people I meet online and real life friends.,1,0.008,NA,NA,NA,NA
+Playstyle,I prefer playing with RLF but I also play it to make a living.,1,0.008,NA,NA,NA,NA
+Playstyle,I usually play online with my real life friends and the internet ones alike.,1,0.008,NA,NA,NA,NA
+Playstyle,It's an online game,1,0.008,NA,NA,NA,NA
+Playstyle,It's really a bit of all,1,0.008,NA,NA,NA,NA
+Playstyle,Its a mixture of both single player and online with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Ladder with friends or strangers,1,0.008,NA,NA,NA,NA
+Playstyle,last 3 options,1,0.008,NA,NA,NA,NA
+Playstyle,League,1,0.008,NA,NA,NA,NA
+Playstyle,let me cross more stuff. SP and MP equally,1,0.008,NA,NA,NA,NA
+Playstyle,M,1,0.008,NA,NA,NA,NA
+Playstyle,Mix between Single and Multiplayer online with real life friends.,1,0.008,NA,NA,NA,NA
+Playstyle,Mix between Singleplayer and Mutliplayer with real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Mix between with strangers and real friends,1,0.008,NA,NA,NA,NA
+Playstyle,mix of all,1,0.008,NA,NA,NA,NA
+Playstyle,mix of online friends and IRL friends,1,0.008,NA,NA,NA,NA
+Playstyle,Mix of online teammates and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Mix of playing with friends and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,mix of real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,mix of the last 2 options,1,0.008,NA,NA,NA,NA
+Playstyle,mix of the last 3,1,0.008,NA,NA,NA,NA
+Playstyle,mixture of acquintances and randomers,1,0.008,NA,NA,NA,NA
+Playstyle,Mixture of real life friends and online acquiantances/team mates,1,0.008,NA,NA,NA,NA
+Playstyle,mostly multiplayer but a bit each reply-option,1,0.008,NA,NA,NA,NA
+Playstyle,MP with strangers and teammates are equal,1,0.008,NA,NA,NA,NA
+Playstyle,"MP, both rl friends and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,Multi- online with stranger and friends,1,0.008,NA,NA,NA,NA
+Playstyle,multi-online-with strangers & real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,multi with internet buddies,1,0.008,NA,NA,NA,NA
+Playstyle,Multilayer - online - with real life friends and online friends as well as with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplaye-online-with freinds and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer- online with rl and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer- with freinds and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-both 4 and 5,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-with both friends and strangers equally,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-with real life friends and online teammates,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-with real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online-with real life friends/strangers/aquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online - with real life friends and friends I've never met in person,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online -with real friend and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer-online acquaintances over several years are real life friends.,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - About equal time with real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - both online and offline with a mixture of friends, randoms, and bots",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - Both with strangers and teammates,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - offline (people in the same room),46,0.361,NA,NA,NA,NA
+Playstyle,Multiplayer - oline - with friend i never met in real life yet,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online- with real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online- With real life friends and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - both RL friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - but with friends in the same room,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - friends I've known online for years,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - mix,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - mix of real life and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - mix of real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - mixture of all three online options above,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online - sometimes with strangers, other times with online acquaintances",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - Strangers vs Bots/AI,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with friend and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - Online - With friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with friends and/or strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with friends i met online and i've spoked to them,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with friends ive met,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with gf,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer - online - with girlfriend and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with internet friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with IRL teammates,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with my Girlfriend,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - Online - With my girlfriend,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with online acquaintances or teammates,2508,19.694,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with online acquaintances or teammates and with real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with online and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with online friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - Online - With real friends, and with online acquaintances, and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends,5271,41.39,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends + with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - Online - with real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - Online - With real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends and with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends or strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with real life friends+with ppl i met over internet and we play together and meet each other,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with strangers,3907,30.679,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with strangers - but skyping with friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with strangers against A.I.,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with strangers and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online - with strangers or real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online - with strangers, real life friends, and online acquaintances/teammates",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online - with strangers, sometimes with some friends",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online (with real life friends and with strangers),1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online I consider the people I've online to be real friends but I'm not sure that's what your real life friends option alludes to?,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online with both online acquaintances and real life friends, equally",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online with both real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online with friends, teammates and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online with friends/strangers/team,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online with online team mates and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online with real friends, online acquaintances, and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - online with real life friends & online acquaintances.,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer - online with real life friends + stragners,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer - online, probably even split between RL friends/online friends/soloq",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - With friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer - With strangers and friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer -online- with both online acquaintances and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer 2&3,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer equally with strangers or real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer mixture of both real and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer online with both, real life friends and people i met on the internet",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer online with friends and random people,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer online with friends and singleplayer,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer online with friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer online with friends AND strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer online with Friends from the Internet, not Strangers.",1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer online with online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer online with strangers and acquaintances at the same level,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer online with strangers and friends,1,0.008,NA,NA,NA,NA
+Playstyle,"multiplayer online, equally with friends and strangers",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer online, with a mix of real life friends and online acquaintances",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer online, with friends (sometimes in the same room), sometimes with strangers.",1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer queued with friends against strangers,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer real life and online friends and random people,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer w/ irl and online friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with and without friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with both real life friends and online strangers/friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with Bots,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with my boyfriend and friends!,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with online friends and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with online friends and real life friends.,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with people i know from gaming ( over 5 years) and real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer with people in and not in the room,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer with real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with rl frends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,multiplayer with strangers and online acquintances,1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with strangers and with acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer with strangers, family and online friends. OffT: Would be better to be able to choose more than 1 option",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayer with strangers/friends/online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer, online, with both acquaintances and real life friends",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer, such as League of Legends, and then many single-player steam games like Skyrim, Binding of Isaac, Borderlands, etc.",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer, various",1,0.008,NA,NA,NA,NA
+Playstyle,"Multiplayer, with online and real life friends, and some online friends have become real life friends.",1,0.008,NA,NA,NA,NA
+Playstyle,Multiplayers online with both strangers and friends,1,0.008,NA,NA,NA,NA
+Playstyle,Multplayer - with RL friends and friends of RL friends,1,0.008,NA,NA,NA,NA
+Playstyle,Mutiplayer with both real life friends and online,1,0.008,NA,NA,NA,NA
+Playstyle,Mutliplayer - A mix of friends/strangers.,1,0.008,NA,NA,NA,NA
+Playstyle,One person,1,0.008,NA,NA,NA,NA
+Playstyle,online - duo - ranked with friend.,1,0.008,NA,NA,NA,NA
+Playstyle,online - real life friends AND strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Online with friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Online with friends, both real life friends and friends I've made online.",1,0.008,NA,NA,NA,NA
+Playstyle,online with real friends and acquaintances (nice WORD :<),1,0.008,NA,NA,NA,NA
+Playstyle,online with real life friends and online acquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Online with strangers/real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Online with team+strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Online, both real life and online friends",1,0.008,NA,NA,NA,NA
+Playstyle,"online, with and withour friends",1,0.008,NA,NA,NA,NA
+Playstyle,"Online, with real friends. Also strangers are part of the game",1,0.008,NA,NA,NA,NA
+Playstyle,"Options 3,4 & 5",1,0.008,NA,NA,NA,NA
+Playstyle,Play solo but in skype call with friends,1,0.008,NA,NA,NA,NA
+Playstyle,Porn,1,0.008,NA,NA,NA,NA
+Playstyle,pretty much balanced of all you listed,1,0.008,NA,NA,NA,NA
+Playstyle,ranked soloQ and normal games with RL firends,1,0.008,NA,NA,NA,NA
+Playstyle,"Ranked, count this for Multiplayer with strangers if more appropriate",1,0.008,NA,NA,NA,NA
+Playstyle,real friends+strangers,1,0.008,NA,NA,NA,NA
+Playstyle,real life friends and strangers,1,0.008,NA,NA,NA,NA
+Playstyle,Real life friends and strangers.,1,0.008,NA,NA,NA,NA
+Playstyle,Single player - speedrunning,1,0.008,NA,NA,NA,NA
+Playstyle,single/multi offline,1,0.008,NA,NA,NA,NA
+Playstyle,Single/Multi same amount,1,0.008,NA,NA,NA,NA
+Playstyle,Singleplayer,718,5.638,NA,NA,NA,NA
+Playstyle,Singleplayer - online,1,0.008,NA,NA,NA,NA
+Playstyle,Singleplayer - online - talking with real life friends,1,0.008,NA,NA,NA,NA
+Playstyle,Singleplayer and multiplayer online with strangers,1,0.008,NA,NA,NA,NA
+Playstyle,singleplayer and multiplayer with real life friends or strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"Singleplayer is my favorite, but mostly play with real life friends",1,0.008,NA,NA,NA,NA
+Playstyle,"Singleplayer, but streaming",1,0.008,NA,NA,NA,NA
+Playstyle,"singleplayer, multiplayer with acquaintances, and multiplayer with real life friends",1,0.008,NA,NA,NA,NA
+Playstyle,solo q,1,0.008,NA,NA,NA,NA
+Playstyle,Solo Que,1,0.008,NA,NA,NA,NA
+Playstyle,Solo queue/Duo queue,1,0.008,NA,NA,NA,NA
+Playstyle,Soloqueue,1,0.008,NA,NA,NA,NA
+Playstyle,"some times solo, other with friends",1,0.008,NA,NA,NA,NA
+Playstyle,"Sometimes alone (Ranked), sometimes with friends. Everytime there are strangers in my game ofc",1,0.008,NA,NA,NA,NA
+Playstyle,"sometimes soloq, sometimes with friends",1,0.008,NA,NA,NA,NA
+Playstyle,"sometimes with friends, sometimes with strangers :)",1,0.008,NA,NA,NA,NA
+Playstyle,Strangers and friends alike,1,0.008,NA,NA,NA,NA
+Playstyle,strangers/rl friends/people met online,1,0.008,NA,NA,NA,NA
+Playstyle,the last 2,1,0.008,NA,NA,NA,NA
+Playstyle,"Used to be the last option only, but in the last two weeks only singleplayer",1,0.008,NA,NA,NA,NA
+Playstyle,usually combination of all,1,0.008,NA,NA,NA,NA
+Playstyle,usually i play online games with both real life friends and online mates.,1,0.008,NA,NA,NA,NA
+Playstyle,varying multiplayer online,1,0.008,NA,NA,NA,NA
+Playstyle,With all the above,1,0.008,NA,NA,NA,NA
+Playstyle,with friend and stragers in same team,1,0.008,NA,NA,NA,NA
+Playstyle,With Friends and Strangers,1,0.008,NA,NA,NA,NA
+Playstyle,With friends and strangers.,1,0.008,NA,NA,NA,NA
+Playstyle,with friends or online acquintances vs strangers,1,0.008,NA,NA,NA,NA
+Playstyle,with girlfriend,1,0.008,NA,NA,NA,NA
+Playstyle,With my partner,1,0.008,NA,NA,NA,NA
+Playstyle,"With my ranked team, a mix of real life friends and online acquaintances.",1,0.008,NA,NA,NA,NA
+Playstyle,"With online friends I consider ""real"" friends",1,0.008,NA,NA,NA,NA
+Playstyle,With real life friends against strangers,1,0.008,NA,NA,NA,NA
+Playstyle,"With real life friends, and online friends.",1,0.008,NA,NA,NA,NA
+Playstyle,with real live Friend and teammates,1,0.008,NA,NA,NA,NA
+Playstyle,With RL friends and randoms,1,0.008,NA,NA,NA,NA
+Playstyle,With strangers and friends,1,0.008,NA,NA,NA,NA
+Playstyle,with strangers and with my friends,1,0.008,NA,NA,NA,NA
+Playstyle,with strangers/IRL friends and online accquaintances,1,0.008,NA,NA,NA,NA
+Playstyle,Yolo queue,1,0.008,NA,NA,NA,NA
+Work,Employed,2609,20.487,NA,NA,NA,NA
+Work,Student at college / university,6740,52.925,NA,NA,NA,NA
+Work,Student at school,2077,16.309,NA,NA,NA,NA
+Work,Unemployed / between jobs,1309,10.279,NA,NA,NA,NA
+Degree,Bachelor(or equivalent),2560,20.102,NA,NA,NA,NA
+Degree,High school diploma (or equivalent),8079,63.439,NA,NA,NA,NA
+Degree,Master(or equivalent),531,4.17,NA,NA,NA,NA
+Degree,None,1476,11.59,NA,NA,NA,NA
+Degree,"Ph.D., Psy. D., MD (or equivalent)",89,0.699,NA,NA,NA,NA
+Age,Continuous,12735,NA,20.957911268158618,3.2940713820146397,18,56
+Hours,Continuous,12735,NA,21.508990969768355,13.446281095715916,1,112
+SPIN_Total,Continuous,12735,NA,19.83219473890852,13.44612831226889,0,68

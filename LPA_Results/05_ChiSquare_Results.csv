@@ -1,0 +1,7 @@
+Variable,Chi_Square,df,p_value,Cramers_V,Significant,Interpretation
+Gender,140.59712800942754,8,1.7826713398679175e-26,0.07429742328486116,TRUE,Gender differs significantly across latent profiles.
+Age_Category,44.61782315245218,8,4.3474762266709493e-7,0.04185426468144,TRUE,Age_Category differs significantly across latent profiles.
+Hours_Category,57.199119442313915,8,1.6466126651062118e-9,0.04738928967504717,TRUE,Hours_Category differs significantly across latent profiles.
+Playstyle,1286.7410363083102,1112,1.9910865831159017e-4,0.15893374080910502,TRUE,Playstyle differs significantly across latent profiles.
+Work,111.36063094943859,12,3.2190333735256702e-18,0.05398905669079575,TRUE,Work differs significantly across latent profiles.
+Degree,144.37042843263842,16,1.0015539030598895e-22,0.05323651924574336,TRUE,Degree differs significantly across latent profiles.

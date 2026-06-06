@@ -1,0 +1,97 @@
+============================================================ 
+LATENT PROFILE ANALYSIS REPORT 
+============================================================ 
+ 
+METHODS 
+------------------------------------------------------------ 
+ 
+Participants 
+The input dataset contained 12735 cases. 
+The final LPA analytic sample consisted of N = 12735 participants with complete data on SPIN1–SPIN17. 
+A total of 0 cases were excluded from LPA due to missing values on one or more SPIN indicators. 
+ 
+Measures 
+Social Phobia Inventory (SPIN) 
+The Social Phobia Inventory was represented by 17 original SPIN items (SPIN1–SPIN17). The items were treated as continuous LPA indicators. No binarization was applied. 
+ 
+Data Analysis 
+A person-centered Latent Profile Analysis was conducted to identify unobserved profiles of social anxiety among gamers based on the original 17 SPIN items. 
+Profile solutions from 1 to 6 profiles were estimated using Gaussian mixture modeling through the mclust framework. 
+Model selection considered AIC, BIC, entropy, and meaningful profile size. Profiles smaller than 5% were flagged for reviewer attention. 
+After selecting the optimal profile solution, categorical demographic variables were compared across profiles using chi-square tests with Cramer's V. 
+Continuous variables Age and Hours were compared across profiles using ANOVA with eta-squared as an effect size estimate. 
+ 
+Model Selection Criteria 
+AIC and BIC were used as information criteria, with smaller values indicating better relative fit. Entropy was used as a classification-quality index, with values of .70 or higher considered acceptable. Profile size was evaluated to avoid retaining very small and potentially unstable profiles. 
+ 
+RESULTS 
+------------------------------------------------------------ 
+ 
+Sample Characteristics 
+The final analytic sample for LPA included N = 12735 participants. 
+Sample characteristics are exported in 01_Sample_Characteristics.csv. 
+ 
+Model Selection 
+The lowest BIC was observed for the 6-profile solution. 
+The lowest AIC was observed for the 6-profile solution. 
+The automatically selected solution was the 6-profile solution. 
+Selected model entropy = 0.755. 
+Minimum selected-profile size = 5.238%. 
+ 
+Interpretation 
+The selected model showed acceptable entropy and no profile smaller than 5%, supporting its interpretability and classification quality. 
+ 
+Full model fit indices are exported in 02_Model_Fit_Indices.csv. 
+ 
+Profile Plot Interpretation 
+The profile plot displays the mean score of each SPIN item across the selected latent profiles. Profiles with consistently low item means indicate lower social anxiety, while profiles with elevated means across multiple SPIN items indicate greater social anxiety severity. Profiles with selective elevations on performance-related or interaction-related items may reflect more specific symptom patterns. 
+ 
+Profile Prevalence 
+Profile 1 (Interaction Anxiety Profile): n = 819, 6.431%. 
+Profile 2 (Performance Anxiety Profile): n = 2099, 16.482%. 
+Profile 3 (Performance Anxiety Profile): n = 667, 5.238%. 
+Profile 5 (Minimal Social Anxiety): n = 7268, 57.071%. 
+Profile 6 (Severe Social Anxiety): n = 1882, 14.778%. 
+ 
+Demographic Differences 
+The following categorical variables differed significantly across profiles: 
+- Gender: chi-square(8) = 140.597, p < .001, Cramer's V = 0.074. 
+- Age_Category: chi-square(8) = 44.618, p < .001, Cramer's V = 0.042. 
+- Hours_Category: chi-square(8) = 57.199, p < .001, Cramer's V = 0.047. 
+- Playstyle: chi-square(1112) = 1286.741, p < .001, Cramer's V = 0.159. 
+- Work: chi-square(12) = 111.361, p < .001, Cramer's V = 0.054. 
+- Degree: chi-square(16) = 144.37, p < .001, Cramer's V = 0.053. 
+ 
+Chi-square results are exported in 05_ChiSquare_Results.csv. 
+ 
+Continuous Variable Differences 
+The following continuous variables differed significantly across profiles: 
+- Age: F(4, 12730) = 17.442, p < .001, eta-squared = 0.005. 
+- Hours: F(4, 12730) = 23.102, p < .001, eta-squared = 0.007. 
+ 
+ANOVA results are exported in 06_ANOVA_Results.csv. 
+ 
+Profile Descriptions 
+Profile 1 was labeled as 'Interaction Anxiety Profile'. This profile had a mean item score of 1.035, a mean performance-related item score of 1.558, a mean interaction-related item score of 1.694, and a mean physiological symptom score of 0.604. 
+Profile 2 was labeled as 'Performance Anxiety Profile'. This profile had a mean item score of 1.543, a mean performance-related item score of 1.977, a mean interaction-related item score of 1.579, and a mean physiological symptom score of 1.081. 
+Profile 3 was labeled as 'Performance Anxiety Profile'. This profile had a mean item score of 1.865, a mean performance-related item score of 2.358, a mean interaction-related item score of 1.988, and a mean physiological symptom score of 1.215. 
+Profile 5 was labeled as 'Minimal Social Anxiety'. This profile had a mean item score of 0.763, a mean performance-related item score of 1.09, a mean interaction-related item score of 0.861, and a mean physiological symptom score of 0.591. 
+Profile 6 was labeled as 'Severe Social Anxiety'. This profile had a mean item score of 2.117, a mean performance-related item score of 2.538, a mean interaction-related item score of 2.097, and a mean physiological symptom score of 2.127. 
+ 
+DISCUSSION NOTES 
+------------------------------------------------------------ 
+ 
+Why the Selected Model Was Chosen 
+The 6-profile solution was selected automatically based on BIC, AIC, entropy, and profile-size criteria. The selected solution balances statistical fit and substantive interpretability. 
+ 
+Meaning of Each Profile 
+Profiles with low mean scores across all SPIN items can be interpreted as lower social anxiety profiles. Profiles with broadly elevated scores can be interpreted as more severe social anxiety profiles. Profiles with selective item elevations may indicate more specific forms of social anxiety, such as performance-related or interaction-related anxiety. 
+ 
+Demographic Variables Differing Across Profiles 
+Significant categorical variables: Gender, Age_Category, Hours_Category, Playstyle, Work, Degree. 
+Significant continuous variables: Age, Hours. 
+ 
+Reviewer-Oriented Note 
+This LPA workflow treats the original SPIN items as continuous indicators and avoids dichotomizing the scale. This preserves item-level response information and provides an alternative person-centered analysis to binary-indicator LCA. 
+ 
+All requested outputs and figures were saved to the LPA_Results folder. 
